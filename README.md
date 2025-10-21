@@ -153,7 +153,7 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-10-21 224123.png>)
+![alt text](<Screenshot 2025-10-21 225638.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2025-10-21 224101.png>)
